@@ -6,6 +6,6 @@ To run the project locally, clone the repo and run the following commands:
 
 `npm start` to start the server
 
-and visit `localhost:3000` to view the page
+And visit `localhost:3000` to view the page
 
 Alternatively visit this link to view the page: https://pm-landing-page.vercel.app/
